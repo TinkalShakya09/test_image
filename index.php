@@ -1,3 +1,3 @@
-<? php
-  print("Dayal Bhai")
+<? php >
+  print("Dayal Bhai");
   ?>
